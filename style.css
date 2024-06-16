@@ -136,6 +136,32 @@ body {
 	text-decoration: none;
 }
 
+.nav .first{
+	width: 25%;
+	text-align: center;
+
+}
+
+.nav .second{
+	width: 25%;
+	text-align: center;
+
+}
+
+.nav .third{
+	width: 25%;
+	text-align: center; 
+}
+
+.nav .fourth{
+	width: 25%;
+	text-align: center; 
+}
+.dash{
+	border-left: 2px solid #EEEEFF;
+	height: 16px;
+}
+
 .projects{
 	margin-right: 20px;
 	text-decoration: none;
